@@ -1,0 +1,10 @@
+body{
+	margin: 0;
+	padding:3em;
+	font-family: 'lato', sans-serif;
+	font-size: 18px;
+	background: #FFF;
+	color: #444;
+	width: 60em;
+	border-left: 6px solid #DDD;
+}
