@@ -53,3 +53,12 @@ a{
 	color:#D00;
 	-webkit-transition: all 300ms;
 }
+img{
+	display: block;
+	margin: 10px;
+	min-width: 85%;
+}
+p{
+	margin-top: 1.5em 0;
+	padding: 0;
+}
